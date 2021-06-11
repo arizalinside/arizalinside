@@ -2,7 +2,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arizalinside)
 [![Linkedin Badge](https://img.shields.io/badge/-Arizal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arizalinside/)](https://www.linkedin.com/in/arizalinside/)
-[![Gmail Badge](https://img.shields.io/badge/-arizalinc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arizalinc@gmail.com)](mailto:arizalinc@gmail.com)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
