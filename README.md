@@ -2,14 +2,12 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arizalinside)
 [![Linkedin Badge](https://img.shields.io/badge/-Arizal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arizalinside/)](https://www.linkedin.com/in/arizalinside/)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 🌱 I’m currently learning and create project using MERN Stack
 
 ### Tools and languages that i used:
 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="40" title="HTML5" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="40" title="CSS3"/> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="40" title="JavaScript" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="40" title="npm" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="40" title="React" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="40" title="Vue" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="40" title="Linux" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="40" title="BitBucket"/> <img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="40" title="Trello" /> <img src="https://cdn.svgporn.com/logos/postman.svg" width="40" title="Postman" /> <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="40" title="VS Code" /> <img src="https://cdn.svgporn.com/logos/mysql.svg" width="40" title="MYSQL" /> <img src="https://cdn.svgporn.com/logos/sequelize.svg" width="40" title="Sequelize" /> <img src="https://cdn.svgporn.com/logos/nodejs.svg" width ="70" title="NodeJS" /> <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="100" title="Mongo DB"/>
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="40" title="HTML5" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="40" title="CSS3"/> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="40" title="JavaScript" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="40" title="React" /> <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="40" title="Vue" /> <img src="https://cdn.svgporn.com/logos/nodejs.svg" width ="70" title="NodeJS" />
 
 
 
